@@ -3010,6 +3010,9 @@ input, select, textarea {
 			margin: 1.5em 3em 1.5em 0;
 			width: calc(50% - 1.5em);
 		}
+		.articleTempHid {
+			display: none;
+		}
 
 			.features article:nth-child(2n) {
 				margin-right: 0;
